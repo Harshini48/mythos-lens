@@ -1,0 +1,777 @@
+[
+  {
+    "id": "india",
+    "metadata": {
+      "name": "Indian Mythology",
+      "displayName": "Telugu Shaivite Tradition",
+      "description": "Shaivite devotional literature from the Andhra-Telangana tradition",
+      "locale": "te-IN",
+      "tradition": "Shaivite",
+      "analysisStats": {
+        "archetypes": 8,
+        "references": 11,
+        "traditions": 1
+      }
+    },
+    "themeConfig": {
+      "colors": {
+        "primary": "oklch(0.75 0.15 65)",
+        "accent": "oklch(0.65 0.18 55)",
+        "background": "oklch(0.05 0 0)",
+        "foreground": "oklch(0.92 0.02 85)",
+        "glow": "oklch(0.75 0.15 65)"
+      },
+      "fonts": {
+        "sans": "Geist",
+        "display": "Geist"
+      }
+    },
+    "content": {
+      "defaultLyric": "మహోగ్ర రూపం, రుద్రనేత్రం...\nసమస్త సృష్టి లయకారకం శివం\n\n(Mahogra Roopam, Rudranethram...\nSamastha Srushti Layakaarakam Shivam)",
+      "exampleTexts": [
+        "యజ్ఞ విధ్వంస నర్తనం... (Yagna Vidhvamsa Nartanam)",
+        "Om Namah Shivaya, the primal sound...",
+        "Nataraja dances the cosmic dissolution..."
+      ],
+      "stories": [
+        {
+          "id": "sati-daksha",
+          "title": "Sati and Daksha's Sacrifice",
+          "summary": "Sati immolates herself when her father Daksha insults Shiva, triggering divine wrath and the birth of Veerabhadra.",
+          "era": "Puranic"
+        },
+        {
+          "id": "shiva-tandava",
+          "title": "The Shiva Tandava",
+          "summary": "Shiva performs the cosmic dance of destruction and renewal at the end of each age, embodying the cycle of Laya.",
+          "era": "Vedic-Puranic"
+        }
+      ],
+      "characters": [
+        {
+          "id": "shiva",
+          "name": "Shiva",
+          "role": "Supreme Deity",
+          "description": "The Destroyer, The Auspicious One — Maheshwara who embodies creation and dissolution."
+        },
+        {
+          "id": "sati",
+          "name": "Sati",
+          "role": "Divine Consort",
+          "description": "Embodiment of devotion whose sacrifice catalyzes Shiva's fierce manifestation."
+        },
+        {
+          "id": "veerabhadra",
+          "name": "Veerabhadra",
+          "role": "Fierce Avatar",
+          "description": "Warrior born from Shiva's matted locks to destroy Daksha's pride."
+        }
+      ],
+      "songs": [
+        {
+          "id": "shiva-tandava-stotram",
+          "title": "Shiva Tandava Stotram",
+          "excerpt": "Jatatavigalajjala pravahapavitasthale, Galeavalambya lambitam bhujangatungamalikam",
+          "language": "Sanskrit"
+        },
+        {
+          "id": "mahogra-roopam",
+          "title": "Mahogra Roopam",
+          "excerpt": "Mahogra Roopam, Rudranethram... Samastha Srushti Layakaarakam Shivam",
+          "language": "Telugu"
+        }
+      ],
+      "analysis": {
+        "sections": [
+          {
+            "id": "origin",
+            "title": "Epic Origin",
+            "icon": "scroll",
+            "content": "This verse emerges from the Shaivite literary tradition, specifically invoking the fearsome Tandava context. It references Shiva in his role as Mahakala - the great time, the ultimate destroyer who brings cosmic dissolution (Pralaya) at the end of each cosmic cycle.",
+            "tags": ["Shaivite Literature", "Shiva Tandava", "Mahakala", "Telugu Devotional"],
+            "highlight": "Shiva Tandava Context"
+          },
+          {
+            "id": "characters",
+            "title": "Mythological Figures",
+            "icon": "users",
+            "content": "The text invokes Lord Shiva (The Destroyer) in his most fierce aspect - the Mahogra Roopam (terrifying form). It also alludes to Veerabhadra, the fierce warrior avatar born from Shiva's matted locks to destroy Daksha's sacrifice, representing divine wrath made manifest.",
+            "tags": ["Lord Shiva", "Veerabhadra", "Rudra", "Mahakala"],
+            "highlight": "The Destroyer & The Fierce Warrior"
+          },
+          {
+            "id": "themes",
+            "title": "Recurring Themes",
+            "icon": "flame",
+            "content": "The verse explores cosmic destruction as a necessary force for renewal. The concept of Raudra Rasa (the aesthetic emotion of fury) dominates, alongside the paradox of destruction as preservation - for without dissolution, creation cannot renew. The cosmic balance between Srishti (creation) and Laya (dissolution) is central.",
+            "tags": ["Cosmic Destruction", "Cosmic Balance", "Divine Rage", "Raudra Rasa", "Laya"],
+            "highlight": "Raudra Rasa - The Aesthetic of Divine Fury"
+          },
+          {
+            "id": "symbolism",
+            "title": "Sacred Symbolism",
+            "icon": "sparkles",
+            "content": "Rudra-Netram (the eye of Rudra) references Shiva's third eye - the eye of wisdom and destruction that reduces Kama (desire) and the universe itself to ashes. The 'Layakaarakam' (cause of dissolution) connects to Shiva's role in the Trimurti as the necessary force of ending.",
+            "tags": ["Third Eye", "Rudra Netram", "Trimurti", "Cosmic Fire"],
+            "highlight": "The Third Eye of Dissolution"
+          },
+          {
+            "id": "geography",
+            "title": "Regional Tradition",
+            "icon": "map-pin",
+            "content": "The Telugu linguistic markers and devotional structure place this firmly in the Andhra-Telangana Shaivite tradition. This region has a rich history of Shiva worship, with temples like Srisailam and a strong tradition of composing praise poetry (Stotras) in the local language.",
+            "tags": ["Telugu", "Andhra Tradition", "South Indian Shaivism", "Srisailam"],
+            "highlight": "Andhra-Telangana Shaivite"
+          },
+          {
+            "id": "quotation",
+            "title": "Parallel Verses",
+            "icon": "quote",
+            "content": "\"Jatatavigalajjala pravahapavitasthale, Galeavalambya lambitam bhujangatungamalikam\" — Opening of the Shiva Tandava Stotram by Ravana, praising Shiva's cosmic dance of destruction and creation.",
+            "tags": ["Tandava Stotram", "Ravana's Hymn", "Sanskrit Stotra"],
+            "highlight": "Shiva Tandava Stotram"
+          }
+        ],
+        "summary": "This text references the fierce, reality-shattering aspect of Shiva's third eye (Rudra-Netram). It captures the transition from structural balance to absolute cosmic dissolution, embodying the Shaivite understanding of destruction as a sacred necessity. The Telugu devotional form connects to the rich Andhra tradition of Shiva worship, where the terrifying and the divine are one."
+      },
+      "characterWeb": {
+        "subtitle": "Shaivite pantheon mapping",
+        "nodes": [
+          {
+            "id": "shiva",
+            "label": "Shiva",
+            "x": 50,
+            "y": 45,
+            "type": "primary",
+            "category": "Supreme Deity",
+            "description": "The Destroyer, The Auspicious One",
+            "details": "Maheshwara, the Great Lord who embodies both creation and dissolution. In his Rudra form, he is the fierce cosmic force whose third eye can reduce the universe to ashes. As Nataraja, he dances the Tandava - the dance of cosmic destruction and renewal."
+          },
+          {
+            "id": "sati",
+            "label": "Sati",
+            "x": 25,
+            "y": 30,
+            "type": "secondary",
+            "category": "Divine Consort",
+            "description": "The embodiment of devotion and sacrifice",
+            "details": "Daughter of Daksha, she immolated herself in the sacrificial fire when her father insulted Shiva. Her death triggered Shiva's devastating grief and rage, leading to the creation of Veerabhadra. She later reincarnates as Parvati to reunite with Shiva."
+          },
+          {
+            "id": "veerabhadra",
+            "label": "Veerabhadra",
+            "x": 75,
+            "y": 30,
+            "type": "secondary",
+            "category": "Fierce Avatar",
+            "description": "Born from Shiva's absolute wrath to destroy Daksha's pride",
+            "details": "The terrifying warrior who emerged from Shiva's matted locks, created to destroy Daksha's sacrifice. With a thousand arms and burning eyes, he represents divine fury made manifest - the unstoppable force of righteous destruction."
+          },
+          {
+            "id": "tarakasura",
+            "label": "Tarakasura",
+            "x": 80,
+            "y": 60,
+            "type": "secondary",
+            "category": "Cosmic Adversary",
+            "description": "The demon who threatened the cosmic order",
+            "details": "A powerful Asura who gained near-invincibility through penance. His boon specified that only Shiva's son could slay him, leading to the birth of Kartikeya. Represents the forces of chaos that necessitate divine intervention."
+          },
+          {
+            "id": "nandi",
+            "label": "Nandi",
+            "x": 20,
+            "y": 60,
+            "type": "secondary",
+            "category": "Divine Vehicle",
+            "description": "The eternal guardian, symbol of unwavering loyalty",
+            "details": "The sacred bull who serves as Shiva's mount and chief devotee. He sits eternally facing the Shiva Lingam in temples, representing the soul's constant devotion to the divine. Also the chief of Shiva's Ganas (attendants)."
+          },
+          {
+            "id": "rudranetram",
+            "label": "Rudra Netram",
+            "x": 50,
+            "y": 15,
+            "type": "tertiary",
+            "category": "Sacred Symbol",
+            "description": "The third eye of cosmic dissolution",
+            "details": "Shiva's third eye, located on his forehead, represents wisdom and the ability to see beyond illusion. When opened in wrath, it releases the fire of destruction that can reduce all creation to ashes - the ultimate instrument of Laya (dissolution)."
+          },
+          {
+            "id": "tandava",
+            "label": "Tandava",
+            "x": 30,
+            "y": 80,
+            "type": "tertiary",
+            "category": "Cosmic Dance",
+            "description": "The dance of destruction and creation",
+            "details": "Shiva's cosmic dance performed at the end of each age. The Rudra Tandava is fierce and destructive, while the Ananda Tandava is blissful. Both represent the eternal cycle of creation, preservation, and dissolution."
+          },
+          {
+            "id": "pralaya",
+            "label": "Pralaya",
+            "x": 70,
+            "y": 80,
+            "type": "tertiary",
+            "category": "Cosmic Event",
+            "description": "The great dissolution of all existence",
+            "details": "The cosmic dissolution at the end of a kalpa (cosmic cycle) when all creation returns to its primordial state. Shiva as Mahakala presides over this process, absorbing all existence back into the formless absolute."
+          }
+        ],
+        "connections": [
+          { "from": "shiva", "to": "sati", "strength": 0.95, "relationship": "Devotion / Sacrifice" },
+          { "from": "shiva", "to": "veerabhadra", "strength": 0.9, "relationship": "Rage manifestation" },
+          { "from": "shiva", "to": "tarakasura", "strength": 0.7, "relationship": "Cosmic adversary" },
+          { "from": "shiva", "to": "nandi", "strength": 0.95, "relationship": "Eternal loyalty" },
+          { "from": "shiva", "to": "rudranetram", "strength": 1.0, "relationship": "Divine power" },
+          { "from": "shiva", "to": "tandava", "strength": 0.9, "relationship": "Cosmic expression" },
+          { "from": "sati", "to": "veerabhadra", "strength": 0.85, "relationship": "Catalyst of" },
+          { "from": "veerabhadra", "to": "tandava", "strength": 0.7, "relationship": "Performs" },
+          { "from": "rudranetram", "to": "pralaya", "strength": 0.95, "relationship": "Initiates" },
+          { "from": "tandava", "to": "pralaya", "strength": 0.9, "relationship": "Manifests as" },
+          { "from": "tarakasura", "to": "pralaya", "strength": 0.6, "relationship": "Threatened by" }
+        ]
+      },
+      "defaultCharacterWeb": {
+        "subtitle": "Mythological relationship mapping",
+        "nodes": [
+          { "id": "1", "label": "Hero", "x": 50, "y": 50, "type": "primary", "category": "Archetype", "description": "The protagonist", "details": "Central figure of the narrative" },
+          { "id": "2", "label": "Mentor", "x": 25, "y": 30, "type": "secondary", "category": "Character", "description": "Guide figure", "details": "Provides wisdom and aid" },
+          { "id": "3", "label": "Shadow", "x": 75, "y": 35, "type": "secondary", "category": "Archetype", "description": "Dark reflection", "details": "Represents inner conflict" },
+          { "id": "4", "label": "Threshold", "x": 30, "y": 70, "type": "tertiary", "category": "Symbol", "description": "Point of no return", "details": "Marks transformation" },
+          { "id": "5", "label": "Elixir", "x": 70, "y": 75, "type": "tertiary", "category": "Symbol", "description": "Ultimate prize", "details": "Goal of the journey" },
+          { "id": "6", "label": "Transformation", "x": 50, "y": 85, "type": "secondary", "category": "Theme", "description": "Growth", "details": "Character evolution" },
+          { "id": "7", "label": "Divine", "x": 15, "y": 55, "type": "tertiary", "category": "Force", "description": "Higher power", "details": "Cosmic order" },
+          { "id": "8", "label": "Mortal", "x": 85, "y": 55, "type": "tertiary", "category": "Force", "description": "Human realm", "details": "Earthly existence" }
+        ],
+        "connections": [
+          { "from": "1", "to": "2", "strength": 0.9, "relationship": "Guided by" },
+          { "from": "1", "to": "3", "strength": 0.8, "relationship": "Opposes" },
+          { "from": "1", "to": "4", "strength": 0.6, "relationship": "Crosses" },
+          { "from": "1", "to": "5", "strength": 0.7, "relationship": "Seeks" },
+          { "from": "2", "to": "7", "strength": 0.5, "relationship": "Connected to" },
+          { "from": "3", "to": "8", "strength": 0.6, "relationship": "Represents" },
+          { "from": "4", "to": "6", "strength": 0.7, "relationship": "Leads to" },
+          { "from": "5", "to": "6", "strength": 0.8, "relationship": "Enables" },
+          { "from": "6", "to": "1", "strength": 0.9, "relationship": "Transforms" }
+        ]
+      }
+    }
+  },
+  {
+    "id": "greece",
+    "metadata": {
+      "name": "Greek Mythology",
+      "displayName": "Hellenic Epic Tradition",
+      "description": "Classical Greek mythic cycles from Homer through the Olympian pantheon",
+      "locale": "el-GR",
+      "tradition": "Olympian",
+      "analysisStats": {
+        "archetypes": 7,
+        "references": 9,
+        "traditions": 1
+      }
+    },
+    "themeConfig": {
+      "colors": {
+        "primary": "oklch(0.72 0.12 250)",
+        "accent": "oklch(0.85 0.08 95)",
+        "background": "oklch(0.08 0.02 260)",
+        "foreground": "oklch(0.93 0.02 95)",
+        "glow": "oklch(0.72 0.12 250)"
+      },
+      "fonts": {
+        "sans": "Geist",
+        "display": "Geist"
+      }
+    },
+    "content": {
+      "defaultLyric": "Ζεὺς κεραυνὸν ἔπεμψεν ἐπ' οὐρανὸν ἄστρα τ' ἐφαίνει\n(Zeus sent the thunderbolt, and the stars shone in heaven)",
+      "exampleTexts": [
+        "Sing, O Muse, of the rage of Achilles...",
+        "Athena sprung fully armed from Zeus's brow...",
+        "The labors of Heracles, twelve trials of fate..."
+      ],
+      "stories": [
+        {
+          "id": "titanomachy",
+          "title": "The Titanomachy",
+          "summary": "Zeus and the Olympians overthrow the Titans, establishing the cosmic order of Mount Olympus.",
+          "era": "Archaic"
+        },
+        {
+          "id": "odyssey",
+          "title": "The Odyssey",
+          "summary": "Odysseus's ten-year journey home after the Trojan War, tested by gods, monsters, and fate.",
+          "era": "Homeric"
+        }
+      ],
+      "characters": [
+        {
+          "id": "zeus",
+          "name": "Zeus",
+          "role": "King of Gods",
+          "description": "Ruler of Olympus, wielder of the thunderbolt, arbiter of divine and mortal fate."
+        },
+        {
+          "id": "athena",
+          "name": "Athena",
+          "role": "Goddess of Wisdom",
+          "description": "Strategic wisdom, craft, and just warfare — patron of heroes and cities."
+        },
+        {
+          "id": "heracles",
+          "name": "Heracles",
+          "role": "Hero",
+          "description": "The greatest mortal hero, whose twelve labors transcend human limitation."
+        }
+      ],
+      "songs": [
+        {
+          "id": "iliad-opening",
+          "title": "Iliad Opening",
+          "excerpt": "Sing, O goddess, the anger of Achilles son of Peleus, that brought countless ills upon the Achaeans.",
+          "language": "Greek (trans.)"
+        },
+        {
+          "id": "hymn-to-apollo",
+          "title": "Homeric Hymn to Apollo",
+          "excerpt": "I will remember and not be unmindful of Apollo who shoots afar.",
+          "language": "Greek (trans.)"
+        }
+      ],
+      "analysis": {
+        "sections": [
+          {
+            "id": "origin",
+            "title": "Epic Origin",
+            "icon": "scroll",
+            "content": "This passage draws from the Homeric and Hesiodic traditions, invoking Zeus as the sovereign of Olympus whose thunderbolt establishes divine authority over mortals and immortals alike.",
+            "tags": ["Homeric Epic", "Olympian Pantheon", "Hesiod", "Archaic Greek"],
+            "highlight": "Homeric Invocation"
+          },
+          {
+            "id": "characters",
+            "title": "Mythological Figures",
+            "icon": "users",
+            "content": "Zeus stands as patriarch and judge, while Athena represents strategic wisdom born from his head. Heroes like Heracles bridge mortal striving and divine destiny through their labors.",
+            "tags": ["Zeus", "Athena", "Heracles", "Olympians"],
+            "highlight": "Olympian Hierarchy"
+          },
+          {
+            "id": "themes",
+            "title": "Recurring Themes",
+            "icon": "flame",
+            "content": "Hubris and nemesis, the capricious will of the gods, and kleos (glory) earned through heroic action. Fate (moira) constrains even the mightiest deities.",
+            "tags": ["Hubris", "Kleos", "Moira", "Divine Will"],
+            "highlight": "Hubris and Nemesis"
+          },
+          {
+            "id": "symbolism",
+            "title": "Sacred Symbolism",
+            "icon": "sparkles",
+            "content": "The thunderbolt signifies sovereign power; the olive branch of Athena marks civilization and craft; the labors of Heracles symbolize humanity's struggle against chaos.",
+            "tags": ["Thunderbolt", "Olive Branch", "Labors", "Cosmic Order"],
+            "highlight": "Symbols of Power"
+          },
+          {
+            "id": "geography",
+            "title": "Regional Tradition",
+            "icon": "map-pin",
+            "content": "Rooted in the Hellenic world — from Mycenaean epic memory through classical Athens, where myth was performed in tragedy and preserved in oral and written form.",
+            "tags": ["Hellenic", "Athens", "Mycenaean", "Classical"],
+            "highlight": "Hellenic Epic Cycle"
+          },
+          {
+            "id": "quotation",
+            "title": "Parallel Verses",
+            "icon": "quote",
+            "content": "\"Tell me, O Muse, of the man of many devices\" — Opening of the Odyssey, invoking divine inspiration for mortal narrative.",
+            "tags": ["Odyssey", "Homer", "Epic Invocation"],
+            "highlight": "Odyssey Opening"
+          }
+        ],
+        "summary": "Greek myth encodes the tension between human ambition and divine limit. Zeus's thunderbolt, Athena's wisdom, and the hero's labors together map a cosmos where glory is won through struggle — and hubris is always answered."
+      },
+      "characterWeb": {
+        "subtitle": "Olympian pantheon mapping",
+        "nodes": [
+          {
+            "id": "zeus",
+            "label": "Zeus",
+            "x": 50,
+            "y": 40,
+            "type": "primary",
+            "category": "King of Gods",
+            "description": "Sovereign of Olympus",
+            "details": "Zeus overthrew the Titans and rules from Olympus, wielding the thunderbolt. He presides over oaths, hospitality, and cosmic order — yet his passions often reshape mortal destinies."
+          },
+          {
+            "id": "athena",
+            "label": "Athena",
+            "x": 25,
+            "y": 35,
+            "type": "secondary",
+            "category": "Goddess of Wisdom",
+            "description": "Strategic mind of Olympus",
+            "details": "Born fully armed from Zeus's head, Athena embodies wisdom, craft, and just warfare. She guides heroes like Odysseus and champions the civilizing arts of the polis."
+          },
+          {
+            "id": "poseidon",
+            "label": "Poseidon",
+            "x": 75,
+            "y": 35,
+            "type": "secondary",
+            "category": "God of the Sea",
+            "description": "Earth-shaker of the deep",
+            "details": "Brother of Zeus, lord of oceans and earthquakes. His trident commands the seas; his rivalry with Athena shaped the founding myths of Athens."
+          },
+          {
+            "id": "heracles",
+            "label": "Heracles",
+            "x": 50,
+            "y": 75,
+            "type": "secondary",
+            "category": "Hero",
+            "description": "Greatest of mortal heroes",
+            "details": "Son of Zeus and Alcmene, Heracles performed twelve impossible labors. His journey from rage to apotheosis defines the Greek hero's path through suffering toward glory."
+          },
+          {
+            "id": "hades",
+            "label": "Hades",
+            "x": 20,
+            "y": 65,
+            "type": "tertiary",
+            "category": "Underworld",
+            "description": "Lord of the dead",
+            "details": "Ruler of the underworld, Hades governs the realm beyond mortal life. He is not evil but inevitable — the final boundary every hero must acknowledge."
+          },
+          {
+            "id": "apollo",
+            "label": "Apollo",
+            "x": 80,
+            "y": 65,
+            "type": "tertiary",
+            "category": "God of Light",
+            "description": "Archer, prophet, musician",
+            "details": "Apollo brings prophecy, healing, and the arts. His oracle at Delphi was the spiritual center of the Greek world, where mortals sought divine guidance."
+          },
+          {
+            "id": "thunderbolt",
+            "label": "Thunderbolt",
+            "x": 50,
+            "y": 15,
+            "type": "tertiary",
+            "category": "Sacred Symbol",
+            "description": "Weapon of sovereignty",
+            "details": "Forged by the Cyclopes, Zeus's thunderbolt represents ultimate divine authority — the force that defeated the Titans and maintains cosmic order."
+          },
+          {
+            "id": "olympus",
+            "label": "Olympus",
+            "x": 35,
+            "y": 55,
+            "type": "tertiary",
+            "category": "Sacred Place",
+            "description": "Seat of the gods",
+            "details": "Mount Olympus is the immortal realm where the Olympians feast on ambrosia and govern the affairs of gods and mortals from above the clouds."
+          }
+        ],
+        "connections": [
+          { "from": "zeus", "to": "athena", "strength": 0.95, "relationship": "Father / Wisdom" },
+          { "from": "zeus", "to": "poseidon", "strength": 0.85, "relationship": "Brothers / Rivals" },
+          { "from": "zeus", "to": "heracles", "strength": 0.9, "relationship": "Father / Hero" },
+          { "from": "zeus", "to": "thunderbolt", "strength": 1.0, "relationship": "Wields" },
+          { "from": "zeus", "to": "olympus", "strength": 0.95, "relationship": "Rules from" },
+          { "from": "athena", "to": "heracles", "strength": 0.7, "relationship": "Guides" },
+          { "from": "poseidon", "to": "athena", "strength": 0.6, "relationship": "Contests" },
+          { "from": "heracles", "to": "hades", "strength": 0.75, "relationship": "Descends to" },
+          { "from": "apollo", "to": "zeus", "strength": 0.8, "relationship": "Serves" },
+          { "from": "hades", "to": "olympus", "strength": 0.5, "relationship": "Counterbalance to" }
+        ]
+      },
+      "defaultCharacterWeb": {
+        "subtitle": "Mythological relationship mapping",
+        "nodes": [
+          { "id": "1", "label": "Hero", "x": 50, "y": 50, "type": "primary", "category": "Archetype", "description": "The protagonist", "details": "Central figure of the narrative" },
+          { "id": "2", "label": "Mentor", "x": 25, "y": 30, "type": "secondary", "category": "Character", "description": "Guide figure", "details": "Provides wisdom and aid" },
+          { "id": "3", "label": "Shadow", "x": 75, "y": 35, "type": "secondary", "category": "Archetype", "description": "Dark reflection", "details": "Represents inner conflict" },
+          { "id": "4", "label": "Threshold", "x": 30, "y": 70, "type": "tertiary", "category": "Symbol", "description": "Point of no return", "details": "Marks transformation" },
+          { "id": "5", "label": "Elixir", "x": 70, "y": 75, "type": "tertiary", "category": "Symbol", "description": "Ultimate prize", "details": "Goal of the journey" },
+          { "id": "6", "label": "Transformation", "x": 50, "y": 85, "type": "secondary", "category": "Theme", "description": "Growth", "details": "Character evolution" },
+          { "id": "7", "label": "Divine", "x": 15, "y": 55, "type": "tertiary", "category": "Force", "description": "Higher power", "details": "Cosmic order" },
+          { "id": "8", "label": "Mortal", "x": 85, "y": 55, "type": "tertiary", "category": "Force", "description": "Human realm", "details": "Earthly existence" }
+        ],
+        "connections": [
+          { "from": "1", "to": "2", "strength": 0.9, "relationship": "Guided by" },
+          { "from": "1", "to": "3", "strength": 0.8, "relationship": "Opposes" },
+          { "from": "1", "to": "4", "strength": 0.6, "relationship": "Crosses" },
+          { "from": "1", "to": "5", "strength": 0.7, "relationship": "Seeks" },
+          { "from": "2", "to": "7", "strength": 0.5, "relationship": "Connected to" },
+          { "from": "3", "to": "8", "strength": 0.6, "relationship": "Represents" },
+          { "from": "4", "to": "6", "strength": 0.7, "relationship": "Leads to" },
+          { "from": "5", "to": "6", "strength": 0.8, "relationship": "Enables" },
+          { "from": "6", "to": "1", "strength": 0.9, "relationship": "Transforms" }
+        ]
+      }
+    }
+  },
+  {
+    "id": "norse",
+    "metadata": {
+      "name": "Norse Mythology",
+      "displayName": "Eddic & Saga Tradition",
+      "description": "Scandinavian mythic cycles from the Poetic Edda and Viking saga literature",
+      "locale": "is-IS",
+      "tradition": "Eddic",
+      "analysisStats": {
+        "archetypes": 6,
+        "references": 10,
+        "traditions": 1
+      }
+    },
+    "themeConfig": {
+      "colors": {
+        "primary": "oklch(0.7 0.1 230)",
+        "accent": "oklch(0.55 0.06 250)",
+        "background": "oklch(0.06 0.02 250)",
+        "foreground": "oklch(0.9 0.02 230)",
+        "glow": "oklch(0.7 0.1 230)"
+      },
+      "fonts": {
+        "sans": "Geist",
+        "display": "Geist Mono"
+      }
+    },
+    "content": {
+      "defaultLyric": "Veit ek at ek hekk vindga meiði á\n(I know that I hung on a windy tree)",
+      "exampleTexts": [
+        "Odin sacrificed his eye at Mimir's well...",
+        "Thor's hammer Mjolnir returns to his hand...",
+        "Ragnarok — the twilight of the gods..."
+      ],
+      "stories": [
+        {
+          "id": "ragnarok",
+          "title": "Ragnarok",
+          "summary": "The prophesied end of the world where gods and giants destroy each other, and a renewed earth rises from the ashes.",
+          "era": "Eddic"
+        },
+        {
+          "id": "odin-sacrifice",
+          "title": "Odin's Sacrifice on Yggdrasil",
+          "summary": "Odin hangs nine nights on the World Tree, pierced by his spear, to gain the runes and secret wisdom.",
+          "era": "Poetic Edda"
+        }
+      ],
+      "characters": [
+        {
+          "id": "odin",
+          "name": "Odin",
+          "role": "All-Father",
+          "description": "Chief of the Aesir, seeker of wisdom who sacrificed an eye and hung on Yggdrasil for the runes."
+        },
+        {
+          "id": "thor",
+          "name": "Thor",
+          "role": "God of Thunder",
+          "description": "Protector of Midgard, wielder of Mjolnir, eternal foe of the giants."
+        },
+        {
+          "id": "loki",
+          "name": "Loki",
+          "role": "Trickster",
+          "description": "Shape-shifter whose cunning both aids and threatens the gods, bound until Ragnarok."
+        }
+      ],
+      "songs": [
+        {
+          "id": "havamal-opening",
+          "title": "Hávamál Opening",
+          "excerpt": "Veit ek at ek hekk vindga meiði á, nætr allar níu (I know that I hung on a windy tree, nine full nights)",
+          "language": "Old Norse (trans.)"
+        },
+        {
+          "id": "voluspa-prophecy",
+          "title": "Völuspá Prophecy",
+          "excerpt": "Hljóðs bið ek allar helgar kindir (Hearing I ask from all holy kindred)",
+          "language": "Old Norse (trans.)"
+        }
+      ],
+      "analysis": {
+        "sections": [
+          {
+            "id": "origin",
+            "title": "Epic Origin",
+            "icon": "scroll",
+            "content": "This verse derives from the Poetic Edda — specifically the Hávamál — where Odin recounts his self-sacrifice on Yggdrasil to obtain the runes, the primal alphabet of fate and magic.",
+            "tags": ["Poetic Edda", "Hávamál", "Yggdrasil", "Runes"],
+            "highlight": "Odin's Runic Sacrifice"
+          },
+          {
+            "id": "characters",
+            "title": "Mythological Figures",
+            "icon": "users",
+            "content": "Odin the All-Father seeks wisdom at any cost; Thor defends the realms with brute force; Loki's trickery weaves through every tale, ultimately triggering Ragnarok.",
+            "tags": ["Odin", "Thor", "Loki", "Aesir"],
+            "highlight": "The Aesir Pantheon"
+          },
+          {
+            "id": "themes",
+            "title": "Recurring Themes",
+            "icon": "flame",
+            "content": "Wyrd (fate) is inescapable; honor in battle defines a warrior's afterlife in Valhalla; the cosmos is destined for destruction and rebirth at Ragnarok.",
+            "tags": ["Wyrd", "Honor", "Ragnarok", "Sacrifice"],
+            "highlight": "Wyrd and Ragnarok"
+          },
+          {
+            "id": "symbolism",
+            "title": "Sacred Symbolism",
+            "icon": "sparkles",
+            "content": "Yggdrasil, the World Tree, connects all nine realms. Mjolnir protects and consecrates. The runes encode the secrets of existence won through suffering.",
+            "tags": ["Yggdrasil", "Mjolnir", "Runes", "Nine Realms"],
+            "highlight": "The World Tree"
+          },
+          {
+            "id": "geography",
+            "title": "Regional Tradition",
+            "icon": "map-pin",
+            "content": "Preserved in Icelandic manuscripts of the 13th century, these myths reflect older Germanic oral traditions of Scandinavia — from Viking Age skaldic poetry to saga narrative.",
+            "tags": ["Icelandic Edda", "Viking Age", "Scandinavian", "Skaldic"],
+            "highlight": "Eddic Manuscript Tradition"
+          },
+          {
+            "id": "quotation",
+            "title": "Parallel Verses",
+            "icon": "quote",
+            "content": "\"Brothers shall fight and kill each other, sisters' children shall violate kinship\" — Völuspá's prophecy of Ragnarok, the doom of gods and men.",
+            "tags": ["Völuspá", "Ragnarok Prophecy", "Eddic Verse"],
+            "highlight": "Völuspá Prophecy"
+          }
+        ],
+        "summary": "Norse myth is shaped by fatalism and fierce loyalty. Odin's sacrifice for wisdom, Thor's defense of Midgard, and the inevitable Ragnarok form a cosmos where even gods must face their end — and from that ending, a world is reborn."
+      },
+      "characterWeb": {
+        "subtitle": "Aesir pantheon mapping",
+        "nodes": [
+          {
+            "id": "odin",
+            "label": "Odin",
+            "x": 50,
+            "y": 40,
+            "type": "primary",
+            "category": "All-Father",
+            "description": "Seeker of wisdom and war",
+            "details": "Chief of the Aesir, Odin sacrificed an eye at Mimir's well and hung nine nights on Yggdrasil to gain the runes. He collects fallen warriors in Valhalla for the final battle."
+          },
+          {
+            "id": "thor",
+            "label": "Thor",
+            "x": 30,
+            "y": 60,
+            "type": "secondary",
+            "category": "God of Thunder",
+            "description": "Protector of Midgard",
+            "details": "Son of Odin, Thor wields Mjolnir to defend gods and mortals against giants. His strength and straightforward courage make him the most beloved of the Aesir."
+          },
+          {
+            "id": "loki",
+            "label": "Loki",
+            "x": 70,
+            "y": 55,
+            "type": "secondary",
+            "category": "Trickster",
+            "description": "Agent of chaos",
+            "details": "Blood-brother to Odin, Loki's schemes both save and endanger the gods. Bound with serpent venom dripping on his face, he will break free at Ragnarok to lead the forces of destruction."
+          },
+          {
+            "id": "freya",
+            "label": "Freya",
+            "x": 20,
+            "y": 35,
+            "type": "secondary",
+            "category": "Goddess of Love",
+            "description": "Chooser of the slain",
+            "details": "Leader of the Vanir who came to live among the Aesir, Freya claims half the battle-dead for her hall Sessrumnir. She masters seidr magic and wears the Brisingamen necklace."
+          },
+          {
+            "id": "yggdrasil",
+            "label": "Yggdrasil",
+            "x": 50,
+            "y": 15,
+            "type": "tertiary",
+            "category": "World Tree",
+            "description": "Axis of the nine realms",
+            "details": "The ash tree that connects all worlds — from Asgard above to Hel below. Odin hung upon it; the Norns water its roots; a dragon gnaws at its base."
+          },
+          {
+            "id": "mjolnir",
+            "label": "Mjolnir",
+            "x": 30,
+            "y": 80,
+            "type": "tertiary",
+            "category": "Sacred Weapon",
+            "description": "Thor's returning hammer",
+            "details": "Forged by dwarves, Mjolnir never misses its target and always returns to Thor's hand. It is used to consecrate and to destroy giants."
+          },
+          {
+            "id": "valhalla",
+            "label": "Valhalla",
+            "x": 65,
+            "y": 20,
+            "type": "tertiary",
+            "category": "Sacred Hall",
+            "description": "Hall of the slain",
+            "details": "Odin's golden hall in Asgard where einherjar warriors feast and train for Ragnarok, chosen by the Valkyries from the battlefields of Midgard."
+          },
+          {
+            "id": "ragnarok",
+            "label": "Ragnarok",
+            "x": 55,
+            "y": 85,
+            "type": "tertiary",
+            "category": "Cosmic Event",
+            "description": "Twilight of the gods",
+            "details": "The prophesied final battle where Odin falls to Fenrir, Thor slays Jormungandr but dies from its venom, and the world sinks into the sea — only to rise renewed."
+          }
+        ],
+        "connections": [
+          { "from": "odin", "to": "thor", "strength": 0.9, "relationship": "Father / Son" },
+          { "from": "odin", "to": "loki", "strength": 0.75, "relationship": "Blood-brothers" },
+          { "from": "odin", "to": "yggdrasil", "strength": 0.95, "relationship": "Sacrificed on" },
+          { "from": "odin", "to": "valhalla", "strength": 0.9, "relationship": "Rules" },
+          { "from": "thor", "to": "mjolnir", "strength": 1.0, "relationship": "Wields" },
+          { "from": "loki", "to": "ragnarok", "strength": 0.95, "relationship": "Triggers" },
+          { "from": "freya", "to": "odin", "strength": 0.7, "relationship": "Allied with" },
+          { "from": "yggdrasil", "to": "ragnarok", "strength": 0.8, "relationship": "Shaken by" },
+          { "from": "valhalla", "to": "ragnarok", "strength": 0.85, "relationship": "Prepares for" },
+          { "from": "thor", "to": "ragnarok", "strength": 0.8, "relationship": "Fights at" }
+        ]
+      },
+      "defaultCharacterWeb": {
+        "subtitle": "Mythological relationship mapping",
+        "nodes": [
+          { "id": "1", "label": "Hero", "x": 50, "y": 50, "type": "primary", "category": "Archetype", "description": "The protagonist", "details": "Central figure of the narrative" },
+          { "id": "2", "label": "Mentor", "x": 25, "y": 30, "type": "secondary", "category": "Character", "description": "Guide figure", "details": "Provides wisdom and aid" },
+          { "id": "3", "label": "Shadow", "x": 75, "y": 35, "type": "secondary", "category": "Archetype", "description": "Dark reflection", "details": "Represents inner conflict" },
+          { "id": "4", "label": "Threshold", "x": 30, "y": 70, "type": "tertiary", "category": "Symbol", "description": "Point of no return", "details": "Marks transformation" },
+          { "id": "5", "label": "Elixir", "x": 70, "y": 75, "type": "tertiary", "category": "Symbol", "description": "Ultimate prize", "details": "Goal of the journey" },
+          { "id": "6", "label": "Transformation", "x": 50, "y": 85, "type": "secondary", "category": "Theme", "description": "Growth", "details": "Character evolution" },
+          { "id": "7", "label": "Divine", "x": 15, "y": 55, "type": "tertiary", "category": "Force", "description": "Higher power", "details": "Cosmic order" },
+          { "id": "8", "label": "Mortal", "x": 85, "y": 55, "type": "tertiary", "category": "Force", "description": "Human realm", "details": "Earthly existence" }
+        ],
+        "connections": [
+          { "from": "1", "to": "2", "strength": 0.9, "relationship": "Guided by" },
+          { "from": "1", "to": "3", "strength": 0.8, "relationship": "Opposes" },
+          { "from": "1", "to": "4", "strength": 0.6, "relationship": "Crosses" },
+          { "from": "1", "to": "5", "strength": 0.7, "relationship": "Seeks" },
+          { "from": "2", "to": "7", "strength": 0.5, "relationship": "Connected to" },
+          { "from": "3", "to": "8", "strength": 0.6, "relationship": "Represents" },
+          { "from": "4", "to": "6", "strength": 0.7, "relationship": "Leads to" },
+          { "from": "5", "to": "6", "strength": 0.8, "relationship": "Enables" },
+          { "from": "6", "to": "1", "strength": 0.9, "relationship": "Transforms" }
+        ]
+      }
+    }
+  }
+]
